@@ -1,4 +1,9 @@
 package com.example.truongducbinh.mvvmarchitecture.view.ui;
 
-public class ProjectListFragment {
+import android.support.v4.app.Fragment;
+
+/**
+ * displays the list of Google GitHub projects.
+ */
+public class ProjectListFragment extends LifecycleFragment {
 }
